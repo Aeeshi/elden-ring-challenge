@@ -196,5 +196,13 @@
 "Dragonkin Soldier",
 "Mohg, Lord of Blood"],
     "defeated_bosses": [false, false, false]
+  },
+    {
+    "name": "Ainsel River",
+    "total": 1,
+    "defeated": 0,
+    "bosses": [
+"Dragonkin Soldier of Nokstella"],
+    "defeated_bosses": [false]
   }
 ]
