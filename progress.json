@@ -214,5 +214,14 @@
 "Beast Clergyman / Maliketh, the Black Blade",
 "Dragonlord Placidusax"],
     "defeated_bosses": [false, false, false]
+  },
+    {
+    "name": "Forbidden Lands",
+    "total": 2,
+    "defeated": 0,
+    "bosses": [
+"Black Blade Kindred",
+"Night's Cavalry"],
+    "defeated_bosses": [false, false]
   }
 ]
