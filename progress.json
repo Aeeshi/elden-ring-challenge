@@ -1,0 +1,17 @@
+
+[
+  {
+    "name": "Limgrave",
+    "total": 3,
+    "defeated": 1,
+    "bosses": ["Beastman", "Tree Sentinel", "Margit"],
+    "defeated_bosses": [true, false, false]
+  },
+  {
+    "name": "Liurnia of the Lakes",
+    "total": 2,
+    "defeated": 1,
+    "bosses": ["Royal Knight Loretta", "Red Wolf of Radagon"],
+    "defeated_bosses": [false, true]
+  }
+]
