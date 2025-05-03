@@ -74,3 +74,61 @@
     "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
   }
 ]
+  {
+    "name": "Caelid",
+    "total": 25,
+    "defeated": 7,
+    "bosses": [
+"Battlemage Hugues",
+"Beastman of Farum Azula",
+"Bell Bearing Hunter",
+"Black Blade Kindred",
+"Cemetery Shade",
+"Cleanrot Knight",
+"Commander O'Neil",
+"Crucible Knight & Misbegotten Warrior",
+"Death Rite Bird",
+"Decaying Ekzykes",
+"Elder Dragon Greyoll",
+"Erdtree Avatar",
+"Erdtree Burial Watchdog",
+"Fallingstar Beast",
+"Flying Dragon Greyll",
+"Frenzied Duelist",
+"Godskin Apostle",
+"Mad Pumpkin Heads",
+"Magma Wyrm",
+"Night's Cavalry (2)",
+"Nox Swordstress & Nox Priest",
+"Putrid Avatar",
+"Putrid Tree Spirit",
+"Putrid Crystalian Trio",
+"Starscourge Radahn"],
+    "defeated_bosses": [false, false, false, true, false, false, false, true, false, true, true, false, false, false, true, false, false, false, false, false, false, true, false, false, true]
+  }
+]
+  {
+    "name": "Altus Plateau",
+    "total": 17,
+    "defeated": 0,
+    "bosses": [
+"Ancient Hero of Zamor",
+"Black Knife Assassin (Sage's Cave)",
+"Black Knife Assassin (Sainted Hero's Grave)",
+"Crystalian Spear & Crystalian Ringblade",
+"Demi-Human Queen Gilika",
+"Draconic Tree Sentinel",
+"Elemer of the Briar",
+"Fallingstar Beast",
+"Godefroy The Grafted",
+"Godskin Apostle",
+"Grave Warden Duelist",
+"Necromancer Garris",
+"Sanguine Noble",
+"Stonedigger Troll",
+"Tibia Mariner",
+"Tree Sentinel Duo",
+"Wormface"],
+    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
+  }
+]
