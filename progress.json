@@ -39,11 +39,38 @@
 "Ulcerated Tree Spirit"],
     "defeated_bosses": [false, true, true, false, true, false, true, false, false, true, true, true, true, true, false, true, true, true, true, false, true, true, false, true, true, true, true, true, true, true, true, true]
   },
-  {
+    {
     "name": "Liurnia of the Lakes",
-    "total": 2,
-    "defeated": 1,
-    "bosses": ["Royal Knight Loretta", "Red Wolf of Radagon"],
-    "defeated_bosses": [false, true]
+    "total": 27,
+    "defeated": 0,
+    "bosses": [
+"Adan, Thief of Fire",
+"Alabaster Lord",
+"Alecto, Black Knife Ringleader",
+"Bell Bearing Hunter",
+"Black Knife Assassin",
+"Bols, Carian Knight",
+"Cemetery Shade",
+"Cleanrot Knight",
+"Crystalian Spear & Crystalian Staff",
+"Crystalian Ringblade",
+"Death Rite Bird",
+"Deathbird",
+"Erdtree Avatar (Liurnia Northeast)",
+"Erdtree Avatar (Liurnia Southwest)",
+"Erdtree Burial Watchdog",
+"Glintstone Dragon Adula",
+"Glintstone Dragon Smarag",
+"Godskin Noble",
+"Magma Wyrm Makar",
+"Night's Cavalry (2)",
+"Omenkiller",
+"Red Wolf of Radagon",
+"Rennala, Queen of the Full Moon",
+"Royal Knight Loretta",
+"Royal Revenant",
+"Spirit-Caller Snail",
+"Tibia Mariner"],
+    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
   }
 ]
