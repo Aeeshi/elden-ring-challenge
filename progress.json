@@ -277,5 +277,13 @@
 "Mogh, The Omen",
 "Sir Gideon Ofnir, the All-Knowing"],
     "defeated_bosses": [false, false, false, false]
+  },
+    {
+    "name": "ELDEN THRONE",
+    "total": 1,
+    "defeated": 0,
+    "bosses": [
+"Radagon of the Golden Order / Elden Beast"],
+    "defeated_bosses": [false]
   }
 ]
