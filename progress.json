@@ -235,7 +235,7 @@
     "defeated_bosses": [false, false, false]
   },
     {
-    "name": "DEEPROOT DEPTHS",
+    "name": "Deeproot Depths",
     "total": 3,
     "defeated": 0,
     "bosses": [
@@ -254,7 +254,7 @@
     "defeated_bosses": [false, false]
   },
     {
-    "name": "CONSECRATED SNOWFIELD",
+    "name": "Consecrated Snowfield",
     "total": 7,
     "defeated": 0,
     "bosses": [
@@ -268,7 +268,7 @@
     "defeated_bosses": [false, false, false, false, false, false, false]
   },
     {
-    "name": "LEYNDELL, CAPITAL OF ASH",
+    "name": "Leyndell, Capital of Ash",
     "total": 4,
     "defeated": 0,
     "bosses": [
@@ -279,7 +279,7 @@
     "defeated_bosses": [false, false, false, false]
   },
     {
-    "name": "ELDEN THRONE",
+    "name": "Elden Throne",
     "total": 1,
     "defeated": 0,
     "bosses": [
