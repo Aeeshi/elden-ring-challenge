@@ -186,5 +186,15 @@
 "Ulcerated Tree Spirit",
 "Vyke, Knight of the Roundtable"],
     "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
+  },
+    {
+    "name": "Siofra River",
+    "total": 3,
+    "defeated": 0,
+    "bosses": [
+"Ancestor Spirit",
+"Dragonkin Soldier",
+"Mohg, Lord of Blood"],
+    "defeated_bosses": [false, false, false]
   }
 ]
