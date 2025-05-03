@@ -1,226 +1,168 @@
+
 [
   {
     "name": "Limgrave",
-    "total": 3,
-    "defeated": 0,
+    "total": 32,
+    "defeated": 22,
     "bosses": [
-      "Beastman of Farum Azula",
-      "Bloodhound Knight Darriwil",
-      "Crucible Knight"
-    ],
-    "defeated_bosses": [
-      false,
-      false,
-      false
-    ]
+      "Ancient Hero of Zamor",
+"Beast of Farum Azula",
+"Bell Bearing Hunter",
+"Black Knife Assassin",
+"Bloodhound Knight Darriwil",
+"Cemetery Shade",
+"Crucible Knight",
+"Deathbird (Limgrave)",
+"Deathbird (Weeping Peninsula)",
+"Demi-Human Chief",
+"Erdtree Avatar",
+"Erdtree Burial Watchdog (Stormfoot Catacombs)",
+"Erdtree Burial Watchdog (Impaler's Catacombs)",
+"Flying Dragon Agheel",
+"Godrick the Grafted",
+"Grafted Scion",
+"Grave Warden Duelist",
+"Guardian Golem",
+"Leonine Misbegotten",
+"Lion Guardian",
+"Mad Pumpkin Head",
+"Margit, the Fell Omen",
+"Miranda the Blighted Bloom",
+"Night's Cavalry (2)",
+"Patches",
+"Runebear",
+"Scaly Misbegotten",
+"Soldier of Godrick",
+"Stonedigger Troll",
+"Tibia Mariner",
+"Tree Sentinel",
+"Ulcerated Tree Spirit"],
+    "defeated_bosses": [false, true, true, false, true, false, true, false, false, true, true, true, true, true, false, true, true, true, true, false, true, true, false, true, true, true, true, true, true, true, true, true]
   },
-  {
+    {
     "name": "Liurnia of the Lakes",
-    "total": 3,
+    "total": 27,
     "defeated": 0,
     "bosses": [
-      "Royal Knight Loretta",
-      "Red Wolf of Radagon",
-      "Raya Lucaria Trio"
-    ],
-    "defeated_bosses": [
-      false,
-      false,
-      false
-    ]
+"Adan, Thief of Fire",
+"Alabaster Lord",
+"Alecto, Black Knife Ringleader",
+"Bell Bearing Hunter",
+"Black Knife Assassin",
+"Bols, Carian Knight",
+"Cemetery Shade",
+"Cleanrot Knight",
+"Crystalian Spear & Crystalian Staff",
+"Crystalian Ringblade",
+"Death Rite Bird",
+"Deathbird",
+"Erdtree Avatar (Liurnia Northeast)",
+"Erdtree Avatar (Liurnia Southwest)",
+"Erdtree Burial Watchdog",
+"Glintstone Dragon Adula",
+"Glintstone Dragon Smarag",
+"Godskin Noble",
+"Magma Wyrm Makar",
+"Night's Cavalry (2)",
+"Omenkiller",
+"Red Wolf of Radagon",
+"Rennala, Queen of the Full Moon",
+"Royal Knight Loretta",
+"Royal Revenant",
+"Spirit-Caller Snail",
+"Tibia Mariner"],
+    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
   },
-  {
+    {
     "name": "Caelid",
-    "total": 3,
-    "defeated": 0,
+    "total": 25,
+    "defeated": 7,
     "bosses": [
-      "Radahn",
-      "Decaying Ekzykes",
-      "Cleanrot Knights"
-    ],
-    "defeated_bosses": [
-      false,
-      false,
-      false
-    ]
+"Battlemage Hugues",
+"Beastman of Farum Azula",
+"Bell Bearing Hunter",
+"Black Blade Kindred",
+"Cemetery Shade",
+"Cleanrot Knight",
+"Commander O'Neil",
+"Crucible Knight & Misbegotten Warrior",
+"Death Rite Bird",
+"Decaying Ekzykes",
+"Elder Dragon Greyoll",
+"Erdtree Avatar",
+"Erdtree Burial Watchdog",
+"Fallingstar Beast",
+"Flying Dragon Greyll",
+"Frenzied Duelist",
+"Godskin Apostle",
+"Mad Pumpkin Heads",
+"Magma Wyrm",
+"Night's Cavalry (2)",
+"Nox Swordstress & Nox Priest",
+"Putrid Avatar",
+"Putrid Tree Spirit",
+"Putrid Crystalian Trio",
+"Starscourge Radahn"],
+    "defeated_bosses": [false, false, false, true, false, false, false, true, false, true, true, false, false, false, true, false, false, false, false, false, false, true, false, false, true]
   },
-  {
+    {
     "name": "Altus Plateau",
-    "total": 3,
+    "total": 17,
     "defeated": 0,
     "bosses": [
-      "Godfrey the First Elden Lord",
-      "Draconic Tree Sentinel",
-      "Wormface"
-    ],
-    "defeated_bosses": [
-      false,
-      false,
-      false
-    ]
+"Ancient Hero of Zamor",
+"Black Knife Assassin (Sage's Cave)",
+"Black Knife Assassin (Sainted Hero's Grave)",
+"Crystalian Spear & Crystalian Ringblade",
+"Demi-Human Queen Gilika",
+"Draconic Tree Sentinel",
+"Elemer of the Briar",
+"Fallingstar Beast",
+"Godefroy The Grafted",
+"Godskin Apostle",
+"Grave Warden Duelist",
+"Necromancer Garris",
+"Sanguine Noble",
+"Stonedigger Troll",
+"Tibia Mariner",
+"Tree Sentinel Duo",
+"Wormface"],
+    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
   },
-  {
-    "name": "Mountaintops of the Giants",
-    "total": 3,
+    {
+    "name": "Mt. Gelmir",
+    "total": 13,
     "defeated": 0,
     "bosses": [
-      "Fire Giant",
-      "Borealis the Freezing Fog",
-      "Death Rite Bird"
-    ],
-    "defeated_bosses": [
-      false,
-      false,
-      false
-    ]
+"Abductor Virgins",
+"Demi-Human Queen Margot",
+"Demi-Human Queen Maggie",
+"Erdtree Burial Watchdog",
+"Full-Grown Fallingstar Beast",
+"Godskin Noble",
+"Kindred of Rot",
+"Magma Wyrm",
+"Perfumer Tricia & Misbegotten Warrior",
+"Ulcerated Tree Spirit",
+"Ancient Dragon Lansseax",
+"God-Devouring Serpent / Rykard, Lord of Blasphemy",
+"Red Wolf of the Champion"],
+    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false]
   },
-  {
-    "name": "Roundtable Hold",
-    "total": 2,
+    {
+    "name": "Leyndell, Royal Capital",
+    "total": 9,
     "defeated": 0,
     "bosses": [
-      "Ensha of the Royal Remains",
-      "Mad Tongue Alberich"
-    ],
-    "defeated_bosses": [
-      false,
-      false
-    ]
-  },
-  {
-    "name": "Siofra River",
-    "total": 2,
-    "defeated": 0,
-    "bosses": [
-      "Ancestor Spirit",
-      "Dragonkin Soldier"
-    ],
-    "defeated_bosses": [
-      false,
-      false
-    ]
-  },
-  {
-    "name": "Ainsel River",
-    "total": 2,
-    "defeated": 0,
-    "bosses": [
-      "Baleful Shadow",
-      "Dragonkin Soldier of Nokstella"
-    ],
-    "defeated_bosses": [
-      false,
-      false
-    ]
-  },
-  {
-    "name": "Deeproot Depths",
-    "total": 2,
-    "defeated": 0,
-    "bosses": [
-      "Fia’s Champions",
-      "Lichdragon Fortissax"
-    ],
-    "defeated_bosses": [
-      false,
-      false
-    ]
-  },
-  {
-    "name": "Crumbling Farum Azula",
-    "total": 3,
-    "defeated": 0,
-    "bosses": [
-      "Maliketh",
-      "Godskin Duo",
-      "Dragonlord Placidusax"
-    ],
-    "defeated_bosses": [
-      false,
-      false,
-      false
-    ]
-  },
-  {
-    "name": "Land of Shadow",
-    "total": 3,
-    "defeated": 0,
-    "bosses": [
-      "Messmer the Impaler",
-      "Midra",
-      "Divine Beast Dancing Lion"
-    ],
-    "defeated_bosses": [
-      false,
-      false,
-      false
-    ]
-  },
-  {
-    "name": "Weeping Peninsula",
-    "total": 2,
-    "defeated": 0,
-    "bosses": [
-      "Erdtree Avatar",
-      "Cemetery Shade"
-    ],
-    "defeated_bosses": [
-      false,
-      false
-    ]
-  },
-  {
-    "name": "Atlina",
-    "total": 2,
-    "defeated": 0,
-    "bosses": [
-      "Atlina Knight Commander",
-      "Atlina Tree Guardian"
-    ],
-    "defeated_bosses": [
-      false,
-      false
-    ]
-  },
-  {
-    "name": "Subterranean Shunning-Grounds",
-    "total": 2,
-    "defeated": 0,
-    "bosses": [
-      "Mohg, the Omen",
-      "Erdtree Burial Watchdog"
-    ],
-    "defeated_bosses": [
-      false,
-      false
-    ]
-  },
-  {
-    "name": "Lake of Rot",
-    "total": 2,
-    "defeated": 0,
-    "bosses": [
-      "Astel, Naturalborn of the Void",
-      "Kindred of Rot Duo"
-    ],
-    "defeated_bosses": [
-      false,
-      false
-    ]
-  },
-  {
-    "name": "Consecrated Snowfield",
-    "total": 3,
-    "defeated": 0,
-    "bosses": [
-      "Putrid Avatar",
-      "Night's Cavalry",
-      "Misbegotten Crusader"
-    ],
-    "defeated_bosses": [
-      false,
-      false,
-      false
-    ]
+"Bell Bearing Hunter",
+"Crucible Knight & Crucible Knight Ordovis",
+"Divine Bridge Golem",
+"Esgar, Priest of Blood",
+"Fell Twins",
+"Godfrey, First Elden Lord",
+"Morgott, the Omen King",
+"Mohg, The Omen",
+"Onyx Lord"],
+    "defeated_bosses": [false, false, false, false, false, false, false, false, false]
   }
 ]
