@@ -204,5 +204,15 @@
     "bosses": [
 "Dragonkin Soldier of Nokstella"],
     "defeated_bosses": [false]
+  },
+    {
+    "name": "Crumbling Farum Azula",
+    "total": 3,
+    "defeated": 0,
+    "bosses": [
+"Godskin Duo",
+"Beast Clergyman / Maliketh, the Black Blade",
+"Dragonlord Placidusax"],
+    "defeated_bosses": [false, false, false]
   }
 ]
