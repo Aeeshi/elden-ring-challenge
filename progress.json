@@ -223,5 +223,25 @@
 "Black Blade Kindred",
 "Night's Cavalry"],
     "defeated_bosses": [false, false]
+  },
+    {
+    "name": "Nokron, Eternal City",
+    "total": 3,
+    "defeated": 0,
+    "bosses": [
+"Mimic Tear",
+"Regal Ancestor Spirit",
+"Valiant Gargoyle & Valiant Gargoyle (Twinblade)"],
+    "defeated_bosses": [false, false, false]
+  },
+    {
+    "name": "DEEPROOT DEPTHS",
+    "total": 3,
+    "defeated": 0,
+    "bosses": [
+"Crucible Knight Siluria",
+"Fia's Champions",
+"Lichdragon Fortissax"],
+    "defeated_bosses": [false, false, false]
   }
 ]
