@@ -164,5 +164,27 @@
 "Mohg, The Omen",
 "Onyx Lord"],
     "defeated_bosses": [false, false, false, false, false, false, false, false, false]
+  },
+    {
+    "name": "Mountaintops of the Giants",
+    "total": 15,
+    "defeated": 0,
+    "bosses": [
+"Ancient Hero of Zamor",
+"Astel, Stars of Darkness",
+"Black Blade Kindred",
+"Borealis the Freezing Fog",
+"Commander Niall",
+"Death Rite Bird (Central Mountaintops of the Giants)",
+"Death Rite Bird (West Mountaintops of the Giants)",
+"Erdtree Avatar",
+"Fire Giant",
+"Godskin Apostle & Godskin Noble",
+"Great Wyrm Theodorix",
+"Misbegotten Crusader",
+"Tibia Mariner",
+"Ulcerated Tree Spirit",
+"Vyke, Knight of the Roundtable"],
+    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
   }
 ]
