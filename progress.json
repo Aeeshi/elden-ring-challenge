@@ -129,4 +129,24 @@
 "Wormface"],
     "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
   },
+    {
+    "name": "Mt. Gelmir",
+    "total": 13,
+    "defeated": 0,
+    "bosses": [
+"Abductor Virgins",
+"Demi-Human Queen Margot",
+"Demi-Human Queen Maggie",
+"Erdtree Burial Watchdog",
+"Full-Grown Fallingstar Beast",
+"Godskin Noble",
+"Kindred of Rot",
+"Magma Wyrm",
+"Perfumer Tricia & Misbegotten Warrior",
+"Ulcerated Tree Spirit",
+"Ancient Dragon Lansseax",
+"God-Devouring Serpent / Rykard, Lord of Blasphemy",
+"Red Wolf of the Champion"],
+    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false]
+  }
 ]
