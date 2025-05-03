@@ -266,5 +266,16 @@
 "Putrid Avatar",
 "Putrid Grave Warden Duelist"],
     "defeated_bosses": [false, false, false, false, false, false, false]
+  },
+    {
+    "name": "LEYNDELL, CAPITAL OF ASH",
+    "total": 4,
+    "defeated": 0,
+    "bosses": [
+"Esgar, Priest of Blood",
+"Godfrey, First Elden Lord (Hoarah Loux)",
+"Mogh, The Omen",
+"Sir Gideon Ofnir, the All-Knowing"],
+    "defeated_bosses": [false, false, false, false]
   }
 ]
