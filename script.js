@@ -14,16 +14,22 @@ fetch("progress.json")
       defeated += region.defeated;
 
       const regionDiv = document.createElement("div");
-      regionDiv.innerHTML = `<h2>${region.name}</h2>`;
+      regionDiv.innerHTML = `<h2 class="region-name">${region.name}</h2>`;
 
-      // Now add the progress bar for each region
+      // Dodaj liczbowy postęp
+      const regionProgressLabel = document.createElement("div");
+      regionProgressLabel.classList.add("region-progress-label");
+      regionProgressLabel.textContent = `${region.defeated} / ${region.total} bossów pokonanych`;
+      regionDiv.appendChild(regionProgressLabel);
+
+      // Dodaj pasek postępu dla regionu
       const regionProgressContainer = document.createElement("div");
       regionProgressContainer.classList.add("region-progress-container");
 
       const regionProgressBar = document.createElement("div");
       regionProgressBar.classList.add("region-progress-bar");
 
-      // Calculate the region's progress percentage
+      // Oblicz postęp procentowy regionu
       const regionPercent = region.total === 0 ? 0 : Math.round((region.defeated / region.total) * 100);
       regionProgressBar.style.width = `${regionPercent}%`;
       regionProgressBar.textContent = `${regionPercent}%`;
@@ -31,7 +37,7 @@ fetch("progress.json")
       regionProgressContainer.appendChild(regionProgressBar);
       regionDiv.appendChild(regionProgressContainer);
 
-      // Add the list of defeated bosses
+      // Dodaj listę bossów
       const regionList = document.createElement("ul");
       region.bosses.forEach((boss, i) => {
         const isDefeated = region.defeated_bosses[i];
