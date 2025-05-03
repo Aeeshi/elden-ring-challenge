@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
 
 body {
@@ -18,7 +17,6 @@ body {
   padding: 20px;
   border-radius: 10px;
   margin-bottom: 20px;
-  font-family: 'EB Garamond', serif;
 }
 
 .progress-container {
@@ -47,10 +45,14 @@ body {
   transition: width 0.3s ease-in-out;
 }
 
+/* Nowe style dla regionów */
+.region-container {
+  margin-top: 30px;
+}
+
 .region-header {
   font-size: 20px;
-  margin-top: 30px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   font-weight: bold;
   color: #ffd700;
 }
@@ -72,4 +74,10 @@ body {
   line-height: 18px;
   font-size: 14px;
   transition: width 0.3s ease-in-out;
+}
+
+.region-progress-label {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #fff;
 }
