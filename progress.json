@@ -148,5 +148,21 @@
 "God-Devouring Serpent / Rykard, Lord of Blasphemy",
 "Red Wolf of the Champion"],
     "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false]
+  },
+    {
+    "name": "Mt. Gelmir",
+    "total": 9,
+    "defeated": 0,
+    "bosses": [
+"Bell Bearing Hunter",
+"Crucible Knight & Crucible Knight Ordovis",
+"Divine Bridge Golem",
+"Esgar, Priest of Blood",
+"Fell Twins",
+"Godfrey, First Elden Lord",
+"Morgott, the Omen King",
+"Mohg, The Omen",
+"Onyx Lord"],
+    "defeated_bosses": [false, false, false, false, false, false, false, false, false]
   }
 ]
