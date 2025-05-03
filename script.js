@@ -14,42 +14,38 @@ fetch("progress.json")
       defeated += region.defeated;
 
       const regionDiv = document.createElement("div");
+
+      // Dodajemy nazwę regionu
       regionDiv.innerHTML = `<h2 class="region-name">${region.name}</h2>`;
 
-      // Dodaj liczbowy postęp
-      const regionProgressLabel = document.createElement("div");
-      regionProgressLabel.classList.add("region-progress-label");
-      regionProgressLabel.textContent = `${region.defeated} / ${region.total} bossów pokonanych`;
-      regionDiv.appendChild(regionProgressLabel);
+      // Dodajemy liczbowy postęp
+      regionDiv.innerHTML += `
+        <div class="region-progress-label">
+          ${region.defeated} / ${region.total} bossów pokonanych
+        </div>
+      `;
 
-      // Dodaj pasek postępu dla regionu
-      const regionProgressContainer = document.createElement("div");
-      regionProgressContainer.classList.add("region-progress-container");
+      // Dodajemy pasek postępu regionu
+      regionDiv.innerHTML += `
+        <div class="region-progress-container">
+          <div class="region-progress-bar" style="width: ${(region.defeated / region.total) * 100}%;">
+            ${(region.defeated / region.total) * 100}%
+          </div>
+        </div>
+      `;
 
-      const regionProgressBar = document.createElement("div");
-      regionProgressBar.classList.add("region-progress-bar");
-
-      // Oblicz postęp procentowy regionu
-      const regionPercent = region.total === 0 ? 0 : Math.round((region.defeated / region.total) * 100);
-      regionProgressBar.style.width = `${regionPercent}%`;
-      regionProgressBar.textContent = `${regionPercent}%`;
-
-      regionProgressContainer.appendChild(regionProgressBar);
-      regionDiv.appendChild(regionProgressContainer);
-
-      // Dodaj listę bossów
-      const regionList = document.createElement("ul");
+      // Dodajemy listę bossów
+      regionDiv.innerHTML += "<ul>";
       region.bosses.forEach((boss, i) => {
         const isDefeated = region.defeated_bosses[i];
-        const listItem = document.createElement("li");
-        listItem.innerHTML = `${isDefeated ? "✅" : "❌"} ${boss}`;
-        regionList.appendChild(listItem);
+        regionDiv.innerHTML += `<li>${isDefeated ? "✅" : "❌"} ${boss}</li>`;
       });
+      regionDiv.innerHTML += "</ul>";
 
-      regionDiv.appendChild(regionList);
       container.appendChild(regionDiv);
     });
 
+    // Obliczamy i aktualizujemy globalny postęp
     const percent = total === 0 ? 0 : Math.round((defeated / total) * 100);
     progressFill.style.width = percent + "%";
     progressPercent.textContent = percent + "%";
