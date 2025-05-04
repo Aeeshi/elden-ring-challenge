@@ -2,7 +2,7 @@
 [
   {
     "name": "Limgrave",
-    "total": 32,
+    "total": 31,
     "defeated": 30,
     "bosses": [
       "Ancient Hero of Zamor",
@@ -24,7 +24,6 @@
 "Grave Warden Duelist",
 "Guardian Golem",
 "Leonine Misbegotten",
-"Lion Guardian",
 "Mad Pumpkin Head",
 "Margit, the Fell Omen",
 "Miranda the Blighted Bloom",
@@ -37,7 +36,7 @@
 "Tibia Mariner",
 "Tree Sentinel",
 "Ulcerated Tree Spirit"],
-    "defeated_bosses": [true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true]
+    "defeated_bosses": [true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true]
   },
     {
     "name": "Liurnia of the Lakes",
