@@ -48,6 +48,7 @@
 "Alecto, Black Knife Ringleader",
 "Bell Bearing Hunter",
 "Black Knife Assassin",
+      "Bloodhound Knight",
 "Bols, Carian Knight",
 "Cemetery Shade",
 "Cleanrot Knight",
@@ -70,7 +71,7 @@
 "Royal Revenant",
 "Spirit-Caller Snail",
 "Tibia Mariner"],
-    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
+    "defeated_bosses": [true, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
   },
     {
     "name": "Caelid",
