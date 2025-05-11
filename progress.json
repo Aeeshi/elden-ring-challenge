@@ -41,7 +41,7 @@
     {
     "name": "Liurnia of the Lakes",
     "total": 27,
-    "defeated": 9,
+    "defeated": 10,
     "bosses": [
 "Adan, Thief of Fire",
 "Alabaster Lord",
@@ -71,7 +71,7 @@
 "Royal Revenant",
 "Spirit-Caller Snail",
 "Tibia Mariner"],
-    "defeated_bosses": [true, false, false, true, true, true, false, true, false, false, false, false, false, true, false, false, false, true, false, false, false, false, true, true, false, false, false, false]
+    "defeated_bosses": [true, false, false, true, true, true, true, true, false, false, false, false, false, true, false, false, false, true, false, false, false, false, true, true, false, false, false, false]
   },
     {
     "name": "Caelid",
