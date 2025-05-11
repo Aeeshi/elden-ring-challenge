@@ -200,10 +200,10 @@
     {
     "name": "Ainsel River",
     "total": 1,
-    "defeated": 0,
+    "defeated": 1,
     "bosses": [
 "Dragonkin Soldier of Nokstella"],
-    "defeated_bosses": [false]
+    "defeated_bosses": [true]
   },
     {
     "name": "Crumbling Farum Azula",
