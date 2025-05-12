@@ -227,12 +227,12 @@
     {
     "name": "Nokron, Eternal City",
     "total": 3,
-    "defeated": 2,
+    "defeated": 3,
     "bosses": [
 "Mimic Tear",
 "Regal Ancestor Spirit",
 "Valiant Gargoyle & Valiant Gargoyle (Twinblade)"],
-    "defeated_bosses": [true, true, false]
+    "defeated_bosses": [true, true, true]
   },
     {
     "name": "Deeproot Depths",
