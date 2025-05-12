@@ -190,12 +190,12 @@
     {
     "name": "Siofra River",
     "total": 3,
-    "defeated": 0,
+    "defeated": 1,
     "bosses": [
 "Ancestor Spirit",
 "Dragonkin Soldier",
 "Mohg, Lord of Blood"],
-    "defeated_bosses": [false, false, false]
+    "defeated_bosses": [false, false, true]
   },
     {
     "name": "Ainsel River",
