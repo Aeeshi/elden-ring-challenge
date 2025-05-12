@@ -108,7 +108,7 @@
     {
     "name": "Altus Plateau",
     "total": 17,
-    "defeated": 0,
+    "defeated": 2,
     "bosses": [
 "Ancient Hero of Zamor",
 "Black Knife Assassin (Sage's Cave)",
@@ -127,7 +127,7 @@
 "Tibia Mariner",
 "Tree Sentinel Duo",
 "Wormface"],
-    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
+    "defeated_bosses": [false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, true, false]
   },
     {
     "name": "Mt. Gelmir",
@@ -152,7 +152,7 @@
     {
     "name": "Leyndell, Royal Capital",
     "total": 9,
-    "defeated": 1,
+    "defeated": 4,
     "bosses": [
 "Bell Bearing Hunter",
 "Crucible Knight & Crucible Knight Ordovis",
@@ -163,7 +163,7 @@
 "Morgott, the Omen King",
 "Mohg, The Omen",
 "Onyx Lord"],
-    "defeated_bosses": [true, false, false, false, false, false, false, false, false]
+    "defeated_bosses": [true, false, false, false, false, true, true, true, false]
   },
     {
     "name": "Mountaintops of the Giants",
