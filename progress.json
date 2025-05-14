@@ -76,7 +76,7 @@
     {
     "name": "Caelid",
     "total": 25,
-    "defeated": 9,
+    "defeated": 13,
     "bosses": [
 "Battlemage Hugues",
 "Beastman of Farum Azula",
@@ -103,7 +103,7 @@
 "Putrid Tree Spirit",
 "Putrid Crystalian Trio",
 "Starscourge Radahn"],
-    "defeated_bosses": [false, false, false, true, false, false, false, true, false, true, true, false, false, false, true, false, true, false, false, false, false, true, true, false, true]
+    "defeated_bosses": [true, true, true, true, false, false, true, true, false, true, true, false, false, false, true, false, true, false, false, false, false, true, true, false, true]
   },
     {
     "name": "Altus Plateau",
