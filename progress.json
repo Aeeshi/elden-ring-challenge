@@ -167,7 +167,7 @@
    {
     "name": "Capital Outskirts",
     "total": 7,
-    "defeated": 2,
+    "defeated": 3,
     "bosses": [
 "Bell Bearing Hunter",
 "Crucible Knight & Crucible Knight Ordovis",
@@ -176,7 +176,7 @@
 "Fell Twins",
 "Grave Warden Duelist",
 "Onyx Lord"],
-    "defeated_bosses": [true, false, false, true, false, false, false]
+    "defeated_bosses": [true, false, false, true, true, false, false]
    },
     {
     "name": "Leyndell, Royal Capital",
