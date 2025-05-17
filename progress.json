@@ -187,7 +187,7 @@
 "Godfrey, First Elden Lord",
 "Mohg, the Omen",
 "Morgott, the Omen King"],
-    "defeated_bosses": [false, true, true, true,]
+    "defeated_bosses": [false, true, true, true]
   },
     {
     "name": "Mountaintops of the Giants",
@@ -284,7 +284,7 @@
 "Crucible Knight Siluria",
 "Fia's Champions",
 "Lichdragon Fortissax"],
-    "defeated_bosses": [true. true, true]
+    "defeated_bosses": [true, true, true]
   },
     {
     "name": "Lake of Rot",
