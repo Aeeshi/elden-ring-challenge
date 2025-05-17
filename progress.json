@@ -181,13 +181,13 @@
     {
     "name": "Leyndell, Royal Capital",
     "total": 4,
-    "defeated": 3,
+    "defeated": 4,
     "bosses": [
 "Esgar, Priest of Blood",
 "Godfrey, First Elden Lord",
 "Mohg, the Omen",
 "Morgott, the Omen King"],
-    "defeated_bosses": [false, true, true, true]
+    "defeated_bosses": [true, true, true, true]
   },
     {
     "name": "Mountaintops of the Giants",
@@ -298,13 +298,13 @@
     {
     "name": "Leyndell, Ashen Capital",
     "total": 4,
-    "defeated": 1,
+    "defeated": 2,
     "bosses": [
 "Esgar, Priest of Blood",
 "Godfrey, First Elden Lord (Hoarah Loux)",
 "Mohg, the Omen",
 "Sir Gideon Ofnir, the All-Knowing"],
-    "defeated_bosses": [false, false, true, false]
+    "defeated_bosses": [true, false, true, false]
   },
       {
     "name": "Elden Throne",
