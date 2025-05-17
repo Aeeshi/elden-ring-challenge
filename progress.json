@@ -203,7 +203,7 @@
 "Godskin Apostle and Godskin Noble (Spiritcaller Snail)",
 "Ulcerated Tree Spirit",
 "Vyke, Knight of the Roundtable"],
-    "defeated_bosses": [false, true, false, false, false, false, false, true, false]
+    "defeated_bosses": [false, true, false, false, false, false, false, true, true]
   },
     {
     "name": "Crumbling Farum Azula",
