@@ -123,7 +123,7 @@
     {
     "name": "Altus Plateau",
     "total": 20,
-    "defeated": 1,
+    "defeated": 2,
     "bosses": [
 "Ancient Dragon Lansseax",
 "Ancient Hero of Zamor",
@@ -145,7 +145,7 @@
 "Tibia Mariner",
 "Tree Sentinel (Duo)",
 "Wormface"],
-    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, false]
+    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, true, false, false, false, false, false, false, false, true, false]
   },
     {
     "name": "Mt. Gelmir",
@@ -167,7 +167,7 @@
    {
     "name": "Capital Outskirts",
     "total": 7,
-    "defeated": 3,
+    "defeated": 4,
     "bosses": [
 "Bell Bearing Hunter",
 "Crucible Knight & Crucible Knight Ordovis",
@@ -176,7 +176,7 @@
 "Fell Twins",
 "Grave Warden Duelist",
 "Onyx Lord"],
-    "defeated_bosses": [true, false, false, true, true, false, false]
+    "defeated_bosses": [true, false, true, true, true, false, false]
    },
     {
     "name": "Leyndell, Royal Capital",
