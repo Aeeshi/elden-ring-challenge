@@ -248,11 +248,11 @@
     {
     "name": "Lake of Rot",
     "total": 2,
-    "defeated": 0,
+    "defeated": 2,
     "bosses": [
 "Astel, Naturalborn of the Void",
 "Dragonkin Soldier"],
-    "defeated_bosses": [false, false]
+    "defeated_bosses": [true, true]
   },
     {
     "name": "Consecrated Snowfield",
