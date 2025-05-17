@@ -192,7 +192,7 @@
     {
     "name": "Mountaintops of the Giants",
     "total": 9,
-    "defeated": 1,
+    "defeated": 6,
     "bosses": [
 "Ancient Hero of Zamor",
 "Borealis the Freezing Fog",
@@ -203,7 +203,7 @@
 "Godskin Apostle and Godskin Noble (Spiritcaller Snail)",
 "Ulcerated Tree Spirit",
 "Vyke, Knight of the Roundtable"],
-    "defeated_bosses": [false, true, false, false, false, true, false, true, true]
+    "defeated_bosses": [false, true, true, true, false, true, false, true, true]
   },
     {
     "name": "Crumbling Farum Azula",
