@@ -29,7 +29,6 @@
 "Ulcerated Tree Spirit"],
     "defeated_bosses": [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true]
   },
-  
   {
     "name": "Weeping Peninsula",
     "total": 10,
@@ -47,7 +46,6 @@
 "Scaly Misbegotten"],
     "defeated_bosses": [true, true, true, true, true, true, true, true, true, true]
   },
-  
     {
     "name": "Liurnia of the Lakes",
     "total": 28,
@@ -104,7 +102,6 @@
 "Starscourge Radahn"],
     "defeated_bosses": [true, true, true, true, true, false, false, false, false, false, true, true, true, true]
   },
-  
   {
     "name": "Dragonbarrow",
     "total": 11,
@@ -123,88 +120,133 @@
 "Putrid Tree Spirit"],
     "defeated_bosses": [true, true, true, true, true, true, true, true, true, true, true, true, false, true]
   },
-  
     {
     "name": "Altus Plateau",
-    "total": 17,
-    "defeated": 2,
+    "total": 20,
+    "defeated": 1,
     "bosses": [
+"Ancient Dragon Lansseax",
 "Ancient Hero of Zamor",
 "Black Knife Assassin (Sage's Cave)",
 "Black Knife Assassin (Sainted Hero's Grave)",
 "Crystalian Spear & Crystalian Ringblade",
 "Demi-Human Queen Gilika",
-"Draconic Tree Sentinel",
 "Elemer of the Briar",
+"Erdtree Burial Watchdog",
 "Fallingstar Beast",
 "Godefroy The Grafted",
 "Godskin Apostle",
-"Grave Warden Duelist",
 "Necromancer Garris",
+"Night's Cavalry",
+"Omenkiller & Miranda the Blighted Bloom",
+"Perfumer Tricia and Misbegotten Warrior",
 "Sanguine Noble",
 "Stonedigger Troll",
 "Tibia Mariner",
-"Tree Sentinel Duo",
+"Tree Sentinel (Duo)",
 "Wormface"],
-    "defeated_bosses": [false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, true, false]
+    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, false]
   },
     {
     "name": "Mt. Gelmir",
-    "total": 13,
+    "total": 10,
     "defeated": 0,
     "bosses": [
-"Abductor Virgins",
-"Demi-Human Queen Margot",
+"Abductor Virgins (Duo)",
 "Demi-Human Queen Maggie",
-"Erdtree Burial Watchdog",
+"Demi-Human Queen Margot",
 "Full-Grown Fallingstar Beast",
-"Godskin Noble",
-"Kindred of Rot",
-"Magma Wyrm",
-"Perfumer Tricia & Misbegotten Warrior",
-"Ulcerated Tree Spirit",
-"Ancient Dragon Lansseax",
 "God-Devouring Serpent / Rykard, Lord of Blasphemy",
-"Red Wolf of the Champion"],
-    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false]
+"Godskin Noble",
+"Kindred of Rot (Duo)",
+"Magma Wyrm (Fort Laiedd)",
+"Red Wolf of the Champion",
+"Ulcerated Tree Spirit"],
+    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false]
   },
-    {
-    "name": "Leyndell, Royal Capital",
-    "total": 9,
-    "defeated": 4,
+   {
+    "name": "Capital Outskirts",
+    "total": 7,
+    "defeated": 2,
     "bosses": [
 "Bell Bearing Hunter",
 "Crucible Knight & Crucible Knight Ordovis",
-"Divine Bridge Golem",
-"Esgar, Priest of Blood",
+"Deathbird",
+"Draconic Tree Sentinel",
 "Fell Twins",
-"Godfrey, First Elden Lord",
-"Morgott, the Omen King",
-"Mohg, The Omen",
+"Grave Warden Duelist",
 "Onyx Lord"],
-    "defeated_bosses": [true, false, false, false, false, true, true, true, false]
+    "defeated_bosses": [true, false, false, true, false, false, false]
+   },
+    {
+    "name": "Leyndell, Royal Capital",
+    "total": 4,
+    "defeated": 3,
+    "bosses": [
+"Esgar, Priest of Blood",
+"Godfrey, First Elden Lord",
+"Mohg, the Omen",
+"Morgott, the Omen King"],
+    "defeated_bosses": [false, true, true, true,]
   },
     {
     "name": "Mountaintops of the Giants",
-    "total": 15,
+    "total": 9,
     "defeated": 0,
     "bosses": [
 "Ancient Hero of Zamor",
-"Astel, Stars of Darkness",
-"Black Blade Kindred",
 "Borealis the Freezing Fog",
 "Commander Niall",
-"Death Rite Bird (Central Mountaintops of the Giants)",
-"Death Rite Bird (West Mountaintops of the Giants)",
+"Death Rite Bird",
 "Erdtree Avatar",
 "Fire Giant",
-"Godskin Apostle & Godskin Noble",
-"Great Wyrm Theodorix",
-"Misbegotten Crusader",
-"Tibia Mariner",
+"Godskin Apostle and Godskin Noble (Spiritcaller Snail)",
 "Ulcerated Tree Spirit",
 "Vyke, Knight of the Roundtable"],
-    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
+    "defeated_bosses": [false, false, false, false, false, false, false, false, false]
+  },
+    {
+    "name": "Crumbling Farum Azula",
+    "total": 3,
+    "defeated": 0,
+    "bosses": [
+"Godskin Duo",
+"Beast Clergyman / Maliketh, the Black Blade",
+"Dragonlord Placidusax"],
+    "defeated_bosses": [false, false, false]
+  },
+    {
+    "name": "Forbidden Lands",
+    "total": 3,
+    "defeated": 0,
+    "bosses": [
+"Black Blade Kindred",
+"Night's Cavalry",
+"Stray Mimic Tear"],
+    "defeated_bosses": [false, false, false]
+  },
+    {
+    "name": "Consecrated Snowfield",
+    "total": 7,
+    "defeated": 0,
+    "bosses": [
+"Astel, Stars of Darkness",
+"Death Rite Bird",
+"Great Wyrm Theodorix",
+"Misbegotten Crusader",
+"Night's Cavalry (Duo)",
+"Putrid Avatar",
+"Putrid Grave Warden Duelist"],
+    "defeated_bosses": [false, false, false, false, false, false, false]
+  },
+    {
+    "name": "Miquella's Haligtree",
+    "total": 2,
+    "defeated": 0,
+    "bosses": [
+"Loretta, Knight of the Haligtree",
+"Malenia, Blade of Miquella"],
+    "defeated_bosses": [false, false]
   },
     {
     "name": "Siofra River",
@@ -225,25 +267,6 @@
     "defeated_bosses": [true]
   },
     {
-    "name": "Crumbling Farum Azula",
-    "total": 3,
-    "defeated": 0,
-    "bosses": [
-"Godskin Duo",
-"Beast Clergyman / Maliketh, the Black Blade",
-"Dragonlord Placidusax"],
-    "defeated_bosses": [false, false, false]
-  },
-    {
-    "name": "Forbidden Lands",
-    "total": 2,
-    "defeated": 0,
-    "bosses": [
-"Black Blade Kindred",
-"Night's Cavalry"],
-    "defeated_bosses": [false, false]
-  },
-    {
     "name": "Nokron, Eternal City",
     "total": 3,
     "defeated": 3,
@@ -261,7 +284,7 @@
 "Crucible Knight Siluria",
 "Fia's Champions",
 "Lichdragon Fortissax"],
-    "defeated_bosses": [true, true, true]
+    "defeated_bosses": [true. true, true]
   },
     {
     "name": "Lake of Rot",
@@ -273,31 +296,17 @@
     "defeated_bosses": [true, true]
   },
     {
-    "name": "Consecrated Snowfield",
-    "total": 7,
-    "defeated": 0,
-    "bosses": [
-"Death Rite Bird",
-"Loretta, Knight of the Haligtree",
-"Malenia, Blade of Miquella",
-"Misbegotten Crusader",
-"Night's Cavalry (Duo)",
-"Putrid Avatar",
-"Putrid Grave Warden Duelist"],
-    "defeated_bosses": [false, false, false, false, false, false, false]
-  },
-    {
-    "name": "Leyndell, Capital of Ash",
+    "name": "Leyndell, Ashen Capital",
     "total": 4,
-    "defeated": 0,
+    "defeated": 1,
     "bosses": [
 "Esgar, Priest of Blood",
 "Godfrey, First Elden Lord (Hoarah Loux)",
-"Mogh, The Omen",
+"Mohg, the Omen",
 "Sir Gideon Ofnir, the All-Knowing"],
-    "defeated_bosses": [false, false, false, false]
+    "defeated_bosses": [false, false, true, false]
   },
-    {
+      {
     "name": "Elden Throne",
     "total": 1,
     "defeated": 0,
@@ -305,55 +314,117 @@
 "Radagon of the Golden Order / Elden Beast"],
     "defeated_bosses": [false]
   },
-      {
-    "name": "Land of Shadow (DLC)",
-    "total": 44,
+  {
+    "name": "Gravesite Plain",
+    "total": 7,
     "defeated": 0,
     "bosses": [
+"Blackgaol Knight",
+"Chief Bloodfiend",
+"Demi-Human Swordmaster Onze",
+"Divine Beast Dancing Lion",
+"Ghostflame Dragon",
+"Rellana Twin Moon Knight",
+"Red Bear"],
+    "defeated_bosses": [false, false, false, false, false, false, false]
+  },
+  {
+    "name": "Scadu Altus",
+    "total": 14,
+    "defeated": 0,
+    "bosses": [
+"Black Knight Edredd",
+"Black Knight Garrew",
+"Count Ymir, Mother of Fingers",
+"Curseblade Labirith",
+"Death Knight",
+"Dryleaf Dane",
+"Ghostflame Dragon",
+"Golden Hippopotamus",
+"Messmer the Impaler + Base Serpent Messmer",
+"Metyr, Mother of Fingers",
+"Rakshasa",
+"Jori, Elder Inquisitor",
+"Ralva the Great Red Bear",
+"Tree Sentinel"],
+    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false]
+  },
+    {
+    "name": "Rauh Base",
+    "total": 2,
+    "defeated": 0,
+    "bosses": [
+"Death Knight",
+"Rugalea the Great Red Bear"],
+    "defeated_bosses": [false, false]
+  },
+  {
+    "name": "Cerulean Coast",
+    "total": 4,
+    "defeated": 0,
+    "bosses": [
+"Dancer of Ranah",
+"Demi-Human Queen Marigga",
+"Ghostflame Dragon",
+"Putrescent Knight"],
+    "defeated_bosses": [false, false, false, false]
+  },
+  {
+    "name": "Charo's Hidden Grave",
+    "total": 3,
+    "defeated": 0,
+    "bosses": [
+"Death Rite Bird",
+"Lamenter",
+"Tibia Mariner"],
+    "defeated_bosses": [false, false, false]
+  },
+  {
+    "name": "Jagged Peak",
+    "total": 4,
+    "defeated": 0,
+    "bosses": [
+"Ancient Dragon-Man",
 "Ancient Dragon Senessax",
-    "Ancient Dragon-Man",
-    "Bayle the Dread",
-    "Black Knight Edredd",
-    "Black Knight Garrew",
-    "Chief Bloodfiend",
-    "Commander Gaius",
-    "Count Ymir, Mother of Fingers",
-    "Curseblade Labirith",
-    "Dancer of Ranah",
-    "Death Knight (Fog Rift Catacombs)",
-    "Death Knight (Scorpion River Catacombs)",
-    "Death Rite Bird",
-    "Demi-Human Queen Marigga",
-    "Demi-Human Swordmaster Onze",
-    "Divine Beast Dancing Lion (Ruins of Rauh)",
-    "Divine Beast Dancing Lion (Belurat)",
-    "Dryleaf Dane",
-    "Fallingstar Beast",
-    "Ghostflame Dragon (North of Fort of Reprimand)",
-    "Ghostflame Dragon (West of Abandoned Ailing Village)",
-    "Ghostflame Dragon (Cerulean Coast)",
-    "Golden Hippopotamus",
-    "Jagged Peak Drake",
-    "Jagged Peak Drake x2",
-    "Jori, Elder Inquisitor",
-    "Knight of the Solitary Gaol",
-    "Lamenter",
-    "Madding Hand",
-    "Messmer the Impaler",
-    "Metyr, Mother of Fingers",
-    "Midra, Lord of the Frenzied Flame",
-    "Promised Consort Radahn",
-    "Putrescent Knight",
-    "Rakshasa",
-    "Ralva the Great Red Bear",
-    "Red Bear",
-    "Rellana, Twin Moon Knight",
-    "Romina, Saint of the Bud",
-    "Rugalea the Great Red Bear",
-    "Scadutree Avatar",
-    "Tibia Mariner",
-    "Tree Sentinel",
-    "Tree Sentinel"],
-    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
-  }
+"Bayle the Dread",
+"Jagged Peak Drake x2"],
+    "defeated_bosses": [false, false, false, false]
+  },
+  {
+    "name": "Abyssal Woods",
+    "total": 1,
+    "defeated": 0,
+    "bosses": [
+"Midra Lord of Frenzied Flame"],
+    "defeated_bosses": [false]
+  },
+  {
+    "name": "Scaduview",
+    "total": 4,
+    "defeated": 0,
+    "bosses": [
+"Fallingstar Beast",
+"Scadutree Avatar",
+"Commander Gaius",
+"Tree Sentinel"],
+    "defeated_bosses": [false, false, false, false]
+  },
+  {
+    "name": "Ancient Ruins of Rauh",
+    "total": 2,
+    "defeated": 0,
+    "bosses": [
+"Divine Beast Dancing Lion",
+"Romina, Saint of the Bud"],
+    "defeated_bosses": [false, false]
+  },
+  {
+    "name": "Enir-Ilim",
+    "total": 2,
+    "defeated": 0,
+    "bosses": [
+"Leda and Allies",
+"Promised Consort Radahn + Radahn Consort of Miquella"],
+    "defeated_bosses": [false, false]
+  },
 ]
