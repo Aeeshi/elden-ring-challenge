@@ -218,12 +218,12 @@
     {
     "name": "Forbidden Lands",
     "total": 3,
-    "defeated": 0,
+    "defeated": 2,
     "bosses": [
 "Black Blade Kindred",
 "Night's Cavalry",
 "Stray Mimic Tear"],
-    "defeated_bosses": [false, false, false]
+    "defeated_bosses": [true, true, false]
   },
     {
     "name": "Consecrated Snowfield",
