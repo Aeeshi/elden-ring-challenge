@@ -208,12 +208,12 @@
     {
     "name": "Crumbling Farum Azula",
     "total": 3,
-    "defeated": 1,
+    "defeated": 2,
     "bosses": [
 "Godskin Duo",
 "Beast Clergyman / Maliketh, the Black Blade",
 "Dragonlord Placidusax"],
-    "defeated_bosses": [true, false, false]
+    "defeated_bosses": [true, true, false]
   },
     {
     "name": "Forbidden Lands",
@@ -298,13 +298,13 @@
     {
     "name": "Leyndell, Ashen Capital",
     "total": 4,
-    "defeated": 2,
+    "defeated": 4,
     "bosses": [
 "Esgar, Priest of Blood",
 "Godfrey, First Elden Lord (Hoarah Loux)",
 "Mohg, the Omen",
 "Sir Gideon Ofnir, the All-Knowing"],
-    "defeated_bosses": [true, false, true, false]
+    "defeated_bosses": [true, true, true, true]
   },
       {
     "name": "Elden Throne",
