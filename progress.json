@@ -218,12 +218,12 @@
     {
     "name": "Forbidden Lands",
     "total": 3,
-    "defeated": 2,
+    "defeated": 3,
     "bosses": [
 "Black Blade Kindred",
 "Night's Cavalry",
 "Stray Mimic Tear"],
-    "defeated_bosses": [true, true, false]
+    "defeated_bosses": [true, true, true]
   },
     {
     "name": "Consecrated Snowfield",
@@ -309,10 +309,10 @@
       {
     "name": "Elden Throne",
     "total": 1,
-    "defeated": 0,
+    "defeated": 1,
     "bosses": [
 "Radagon of the Golden Order / Elden Beast"],
-    "defeated_bosses": [false]
+    "defeated_bosses": [true]
   },
   {
     "name": "Gravesite Plain",
