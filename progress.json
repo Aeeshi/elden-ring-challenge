@@ -228,7 +228,7 @@
     {
     "name": "Consecrated Snowfield",
     "total": 7,
-    "defeated": 4,
+    "defeated": 5,
     "bosses": [
 "Astel, Stars of Darkness",
 "Death Rite Bird",
@@ -237,7 +237,7 @@
 "Night's Cavalry (Duo)",
 "Putrid Avatar",
 "Putrid Grave Warden Duelist"],
-    "defeated_bosses": [true, true, true, true, false, false, false]
+    "defeated_bosses": [true, true, true, true, false, true, false]
   },
     {
     "name": "Miquella's Haligtree",
