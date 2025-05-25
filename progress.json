@@ -123,7 +123,7 @@
     {
     "name": "Altus Plateau",
     "total": 20,
-    "defeated": 8,
+    "defeated": 9,
     "bosses": [
 "Ancient Dragon Lansseax",
 "Ancient Hero of Zamor",
@@ -145,12 +145,12 @@
 "Tibia Mariner",
 "Tree Sentinel (Duo)",
 "Wormface"],
-    "defeated_bosses": [true, true, true, true, false, false, true, false, false, false, true, true, false, false, false, false, false, false, true, false]
+    "defeated_bosses": [true, true, true, true, false, false, true, false, false, false, true, true, false, false, false, false, false, true, true, false]
   },
     {
     "name": "Mt. Gelmir",
     "total": 10,
-    "defeated": 0,
+    "defeated": 1,
     "bosses": [
 "Abductor Virgins (Duo)",
 "Demi-Human Queen Maggie",
@@ -162,7 +162,7 @@
 "Magma Wyrm (Fort Laiedd)",
 "Red Wolf of the Champion",
 "Ulcerated Tree Spirit"],
-    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false]
+    "defeated_bosses": [false, false, false, false, false, false, true, false, false, false]
   },
    {
     "name": "Capital Outskirts",
