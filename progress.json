@@ -208,12 +208,12 @@
     {
     "name": "Crumbling Farum Azula",
     "total": 3,
-    "defeated": 2,
+    "defeated": 3,
     "bosses": [
 "Godskin Duo",
 "Beast Clergyman / Maliketh, the Black Blade",
 "Dragonlord Placidusax"],
-    "defeated_bosses": [true, true, false]
+    "defeated_bosses": [true, true, true]
   },
     {
     "name": "Forbidden Lands",
