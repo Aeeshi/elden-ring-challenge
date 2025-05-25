@@ -242,11 +242,11 @@
     {
     "name": "Miquella's Haligtree",
     "total": 2,
-    "defeated": 1,
+    "defeated": 2,
     "bosses": [
 "Loretta, Knight of the Haligtree",
-"Malenia, Blade of Miquella"],
-    "defeated_bosses": [true, false]
+"Malenia, Blade of Miquella (jebać cię ruda szmato)"],
+    "defeated_bosses": [true, true]
   },
     {
     "name": "Siofra River",
@@ -415,7 +415,7 @@
     "defeated": 0,
     "bosses": [
 "Divine Beast Dancing Lion",
-"Romina, Saint of the Bud"],
+"❤️ Romina, Saint of the Bud ❤️"],
     "defeated_bosses": [false, false]
   },
   {
