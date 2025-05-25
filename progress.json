@@ -317,7 +317,7 @@
   {
     "name": "Gravesite Plain",
     "total": 7,
-    "defeated": 0,
+    "defeated": 2,
     "bosses": [
 "Blackgaol Knight",
 "Chief Bloodfiend",
@@ -326,7 +326,7 @@
 "Ghostflame Dragon",
 "Rellana Twin Moon Knight",
 "Red Bear"],
-    "defeated_bosses": [false, false, false, false, false, false, false]
+    "defeated_bosses": [true, false, false, true, false, false, false]
   },
   {
     "name": "Scadu Altus",
