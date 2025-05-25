@@ -150,7 +150,7 @@
     {
     "name": "Mt. Gelmir",
     "total": 10,
-    "defeated": 1,
+    "defeated": 4,
     "bosses": [
 "Abductor Virgins (Duo)",
 "Demi-Human Queen Maggie",
@@ -162,7 +162,7 @@
 "Magma Wyrm (Fort Laiedd)",
 "Red Wolf of the Champion",
 "Ulcerated Tree Spirit"],
-    "defeated_bosses": [false, false, false, false, false, false, true, false, false, false]
+    "defeated_bosses": [false, true, false, false, false, false, true, true, true, false]
   },
    {
     "name": "Capital Outskirts",
