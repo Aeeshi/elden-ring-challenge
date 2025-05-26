@@ -331,7 +331,7 @@
   {
     "name": "Scadu Altus",
     "total": 14,
-    "defeated": 0,
+    "defeated": 3,
     "bosses": [
 "Black Knight Edredd",
 "Black Knight Garrew",
@@ -347,7 +347,7 @@
 "Jori, Elder Inquisitor",
 "Ralva the Great Red Bear",
 "Tree Sentinel"],
-    "defeated_bosses": [false, false, false, false, false, false, false, false, false, false, false, false, false, false]
+    "defeated_bosses": [false, false, false, false, false, true, false, true, true, false, false, false, false, false]
   },
     {
     "name": "Rauh Base",
@@ -412,19 +412,19 @@
   {
     "name": "Ancient Ruins of Rauh",
     "total": 2,
-    "defeated": 0,
+    "defeated": 1,
     "bosses": [
 "Divine Beast Dancing Lion",
 "❤️ Romina, Saint of the Bud ❤️"],
-    "defeated_bosses": [false, false]
+    "defeated_bosses": [false, true]
   },
   {
     "name": "Enir-Ilim",
     "total": 2,
-    "defeated": 0,
+    "defeated": 1,
     "bosses": [
 "Leda and Allies",
 "Promised Consort Radahn + Radahn Consort of Miquella"],
-    "defeated_bosses": [false, false]
+    "defeated_bosses": [true, false]
   }
 ]
