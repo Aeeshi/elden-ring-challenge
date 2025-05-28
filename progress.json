@@ -382,13 +382,13 @@
   {
     "name": "Jagged Peak",
     "total": 4,
-    "defeated": 0,
+    "defeated": 3,
     "bosses": [
 "Ancient Dragon-Man",
 "Ancient Dragon Senessax",
 "Bayle the Dread",
 "Jagged Peak Drake x2"],
-    "defeated_bosses": [false, false, false, false]
+    "defeated_bosses": [true, false, true, true]
   },
   {
     "name": "Abyssal Woods",
