@@ -331,7 +331,7 @@
   {
     "name": "Scadu Altus",
     "total": 14,
-    "defeated": 3,
+    "defeated": 5,
     "bosses": [
 "Black Knight Edredd",
 "Black Knight Garrew",
@@ -347,7 +347,7 @@
 "Jori, Elder Inquisitor",
 "Ralva the Great Red Bear",
 "Tree Sentinel"],
-    "defeated_bosses": [false, false, false, false, false, true, false, true, true, false, false, false, false, false]
+    "defeated_bosses": [true, false, false, false, false, true, true, true, true, false, false, false, false, false]
   },
     {
     "name": "Rauh Base",
