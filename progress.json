@@ -361,13 +361,13 @@
   {
     "name": "Cerulean Coast",
     "total": 4,
-    "defeated": 1,
+    "defeated": 2,
     "bosses": [
 "Dancer of Ranah",
 "Demi-Human Queen Marigga",
 "Ghostflame Dragon",
 "Putrescent Knight"],
-    "defeated_bosses": [false, false, true, false]
+    "defeated_bosses": [false, false, true, true]
   },
   {
     "name": "Charo's Hidden Grave",
