@@ -372,12 +372,12 @@
   {
     "name": "Charo's Hidden Grave",
     "total": 3,
-    "defeated": 0,
+    "defeated": 2,
     "bosses": [
 "Death Rite Bird",
 "Lamenter",
 "Tibia Mariner"],
-    "defeated_bosses": [false, false, false]
+    "defeated_bosses": [true, true, false]
   },
   {
     "name": "Jagged Peak",
