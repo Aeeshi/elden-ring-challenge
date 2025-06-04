@@ -401,13 +401,13 @@
   {
     "name": "Scaduview",
     "total": 4,
-    "defeated": 0,
+    "defeated": 2,
     "bosses": [
 "Fallingstar Beast",
 "Scadutree Avatar",
 "Commander Gaius",
 "Tree Sentinel"],
-    "defeated_bosses": [false, false, false, false]
+    "defeated_bosses": [false, true, false, true]
   },
   {
     "name": "Ancient Ruins of Rauh",
