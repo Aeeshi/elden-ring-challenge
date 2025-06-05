@@ -84,7 +84,7 @@
     {
     "name": "Caelid",
     "total": 14,
-    "defeated": 11,
+    "defeated": 12,
     "bosses": [
 "Cemetery Shade",
 "Commander O'Neil",
@@ -100,7 +100,7 @@
 "Nox Swordstress & Nox Priest",
 "Putrid Avatar",
 "Starscourge Radahn"],
-    "defeated_bosses": [true, true, true, true, true, true, false, false, false, true, true, true, true, true]
+    "defeated_bosses": [true, true, true, true, true, true, true, false, false, true, true, true, true, true]
   },
   {
     "name": "Dragonbarrow",
