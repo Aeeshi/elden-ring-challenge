@@ -412,19 +412,19 @@
   {
     "name": "Ancient Ruins of Rauh",
     "total": 2,
-    "defeated": 1,
+    "defeated": 2,
     "bosses": [
 "Divine Beast Dancing Lion",
 "❤️ Romina, Saint of the Bud ❤️"],
-    "defeated_bosses": [false, true]
+    "defeated_bosses": [true, true]
   },
   {
     "name": "Enir-Ilim",
     "total": 2,
-    "defeated": 1,
+    "defeated": 2,
     "bosses": [
 "Leda and Allies",
-"Promised Consort Radahn + Radahn Consort of Miquella"],
-    "defeated_bosses": [true, false]
+"Promised Consort Radahn + Radahn Consort of Miquella (Dziękuję Maja za użyczenie kompa do tego skurwysyna ❤️)"],
+    "defeated_bosses": [true, true]
   }
 ]
